@@ -1,1 +1,1 @@
-# react-nativive-wheel
+# react-native-wheel
